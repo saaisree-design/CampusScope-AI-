@@ -10,9 +10,6 @@ A modern full-stack platform that transforms the traditional complaint process i
 
 **🔗 Website:** https://campusai-mdyjycqy.manus.space/
 
-**💻 GitHub:** `
----
-
 ## ✨ Key Features
 
 ### 👨‍🎓 Student Portal
